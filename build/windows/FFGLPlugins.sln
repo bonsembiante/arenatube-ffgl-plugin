@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sources", "sources", "{26AC2413-23B7-4D1F-BB58-17D67106F3F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArenaTube", "ArenaTube.vcxproj", "{BE812D73-2920-4A6E-A31D-5D4E92230843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE812D73-2920-4A6E-A31D-5D4E92230843}.Debug|x64.ActiveCfg = Debug|x64
+		{BE812D73-2920-4A6E-A31D-5D4E92230843}.Debug|x64.Build.0 = Debug|x64
+		{BE812D73-2920-4A6E-A31D-5D4E92230843}.Release|x64.ActiveCfg = Release|x64
+		{BE812D73-2920-4A6E-A31D-5D4E92230843}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE812D73-2920-4A6E-A31D-5D4E92230843} = {26AC2413-23B7-4D1F-BB58-17D67106F3F1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28436461-C06F-497A-8594-636977E4CDAF}
+	EndGlobalSection
+EndGlobal
